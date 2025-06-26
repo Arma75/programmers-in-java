@@ -1,3 +1,4 @@
+// https://school.programmers.co.kr/learn/courses/30/lessons/340207
 import java.util.Scanner;
 
 public class Solution {
