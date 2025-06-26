@@ -1,3 +1,4 @@
+// https://school.programmers.co.kr/learn/courses/30/lessons/340199
 class Solution {
     public int solution(int[] wallet, int[] bill) {
         int answer = 0;

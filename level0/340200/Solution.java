@@ -1,3 +1,4 @@
+// https://school.programmers.co.kr/learn/courses/30/lessons/340200
 class Solution {
     public String solution(String nickname) {
         String answer = "";

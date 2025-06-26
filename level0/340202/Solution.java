@@ -1,3 +1,4 @@
+// https://school.programmers.co.kr/learn/courses/30/lessons/340202
 class Solution {
     public int solution(int storage, int usage, int[] change) {
         int total_usage = 0;
