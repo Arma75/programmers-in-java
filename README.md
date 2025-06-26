@@ -14,19 +14,23 @@
 ## 📝 문제 풀이 기록
 > 2025-06-25(1)
 
-1. [**[PCCE 기출문제] 1번 / 문자 출력**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340207)
+1. 0️⃣ [**[PCCE 기출문제] 1번 / 문자 출력**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340207)
 
 > 2025-06-26(12)
 
-1. [**[PCCE 기출문제] 1번 / 문자 출력**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340207)   
-2. [**[PCCE 기출문제] 2번 / 각도 합치기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340206)   
-3. [**[PCCE 기출문제] 3번 / 수 나누기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340205)   
-4. [**[PCCE 기출문제] 4번 / 병과분류**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340204)   
-5. [**[PCCE 기출문제] 5번 / 심폐소생술**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340203)   
-6. [**[PCCE 기출문제] 6번 / 물 부족**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340202)   
-7. [**[PCCE 기출문제] 7번 / 버스**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340201)   
-8. [**[PCCE 기출문제] 8번 / 닉네임 규칙**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340200)   
-9. [**[PCCE 기출문제] 9번 / 지폐 접기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340199)   
-10. [**[PCCE 기출문제] 10번 / 공원**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340198)   
-11. [**유연근무제**](https://github.com/Arma75/programmers-in-java/blob/main/level1/388351)   
-12. [**택배 상자 꺼내기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/389478)   
+1. 0️⃣ [**[PCCE 기출문제] 1번 / 문자 출력**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340207)   
+2. 0️⃣ [**[PCCE 기출문제] 2번 / 각도 합치기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340206)   
+3. 0️⃣ [**[PCCE 기출문제] 3번 / 수 나누기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340205)   
+4. 0️⃣ [**[PCCE 기출문제] 4번 / 병과분류**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340204)   
+5. 0️⃣ [**[PCCE 기출문제] 5번 / 심폐소생술**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340203)   
+6. 0️⃣ [**[PCCE 기출문제] 6번 / 물 부족**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340202)   
+7. 0️⃣ [**[PCCE 기출문제] 7번 / 버스**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340201)   
+8. 0️⃣ [**[PCCE 기출문제] 8번 / 닉네임 규칙**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340200)   
+9. 1️⃣ [**[PCCE 기출문제] 9번 / 지폐 접기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340199)   
+10. 1️⃣ [**[PCCE 기출문제] 10번 / 공원**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340198)   
+11. 1️⃣ [**유연근무제**](https://github.com/Arma75/programmers-in-java/blob/main/level1/388351)   
+12. 1️⃣ [**택배 상자 꺼내기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/389478)   
+
+> 2025-06-27(1)
+
+1. 1️⃣ [**[PCCP 기출문제] 1번 / 동영상 재생기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340213)   
