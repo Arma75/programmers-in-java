@@ -34,3 +34,4 @@
 > 2025-06-27(1)
 
 1. 1️⃣ [**[PCCP 기출문제] 1번 / 동영상 재생기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340213)   
+2. 1️⃣ [**서버 증설 횟수**](https://github.com/Arma75/programmers-in-java/blob/main/level1/389479)   
