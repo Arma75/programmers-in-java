@@ -31,7 +31,7 @@
 11. 1️⃣ [**유연근무제**](https://github.com/Arma75/programmers-in-java/blob/main/level1/388351)   
 12. 1️⃣ [**택배 상자 꺼내기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/389478)   
 
-> 2025-06-27(1)
+> 2025-06-27(2)
 
 1. 1️⃣ [**[PCCP 기출문제] 1번 / 동영상 재생기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340213)   
 2. 1️⃣ [**서버 증설 횟수**](https://github.com/Arma75/programmers-in-java/blob/main/level1/389479)   
