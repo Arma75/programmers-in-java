@@ -1,6 +1,13 @@
 # 😁 programmers-in-java
 > 이 레포지토리는 제가 [**프로그래머스**](https://programmers.co.kr/)에 등록된 알고리즘 문제를 Java 언어를 이용해서 풀이한 코드를 모아둔 곳입니다!
 
+## 🌖 개요
+<img width="336" alt="image" src="https://github.com/user-attachments/assets/7ab09a5a-1850-4543-be95-a3a15dc3d46f" />
+   
+오래전에 JavaScript를 이용해서 프로그래머스 문제를 풀어본 경험이 있습니다.   
+이제는 알고리즘에 대한 개념도 서서히 잊혀져가고 있으며, JavaScript를 많이 쓰다보니 Java 문법도 조금씩 헷갈리기 시작하여   
+알고리즘과 Java를 동시에 공부하기 위해 Java로 프로그래머스 문제를 풀어봅니다.
+
 ## 📚 목표
     1. Java 언어로만 작성
     2. 주 7문제 이상 풀이
