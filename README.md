@@ -41,4 +41,12 @@
 > 2025-06-27(2)
 
 1. 1️⃣ [**[PCCP 기출문제] 1번 / 동영상 재생기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340213)   
-2. 1️⃣ [**서버 증설 횟수**](https://github.com/Arma75/programmers-in-java/blob/main/level1/389479)   
+2. 2️⃣ [**서버 증설 횟수**](https://github.com/Arma75/programmers-in-java/blob/main/level2/389479)   
+
+> 2025-06-28(1)
+
+1. 2️⃣ [**[PCCP 기출문제] 2번 / 퍼즐 게임 챌린지**](https://github.com/Arma75/programmers-in-java/blob/main/level2/340212)   
+
+> 2025-06-30(1)
+
+1. 2️⃣ [**지게차와 크레인**](https://github.com/Arma75/programmers-in-java/blob/main/level2/388353)   
