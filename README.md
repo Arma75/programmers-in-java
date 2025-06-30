@@ -50,3 +50,4 @@
 > 2025-06-30(1)
 
 1. 2️⃣ [**지게차와 크레인**](https://github.com/Arma75/programmers-in-java/blob/main/level2/388353)   
+2. 2️⃣ [**비밀 코드 해독**](https://github.com/Arma75/programmers-in-java/blob/main/level2/388352)   
