@@ -47,7 +47,7 @@
 
 1. 2️⃣ [**[PCCP 기출문제] 2번 / 퍼즐 게임 챌린지**](https://github.com/Arma75/programmers-in-java/blob/main/level2/340212)   
 
-> 2025-06-30(1)
+> 2025-06-30(2)
 
 1. 2️⃣ [**지게차와 크레인**](https://github.com/Arma75/programmers-in-java/blob/main/level2/388353)   
 2. 2️⃣ [**비밀 코드 해독**](https://github.com/Arma75/programmers-in-java/blob/main/level2/388352)   
