@@ -21,37 +21,39 @@
 ## 📝 문제 풀이 기록
 > 2025-06-25(1)
 
-1. 0️⃣ [**[PCCE 기출문제] 1번 / 문자 출력**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340207)
+1. 0️⃣🆙 [**[PCCE 기출문제] 1번 / 문자 출력**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340207)
 
 > 2025-06-26(12)
 
-1. 0️⃣ [**[PCCE 기출문제] 1번 / 문자 출력**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340207)   
-2. 0️⃣ [**[PCCE 기출문제] 2번 / 각도 합치기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340206)   
-3. 0️⃣ [**[PCCE 기출문제] 3번 / 수 나누기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340205)   
-4. 0️⃣ [**[PCCE 기출문제] 4번 / 병과분류**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340204)   
-5. 0️⃣ [**[PCCE 기출문제] 5번 / 심폐소생술**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340203)   
-6. 0️⃣ [**[PCCE 기출문제] 6번 / 물 부족**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340202)   
-7. 0️⃣ [**[PCCE 기출문제] 7번 / 버스**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340201)   
-8. 0️⃣ [**[PCCE 기출문제] 8번 / 닉네임 규칙**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340200)   
-9. 1️⃣ [**[PCCE 기출문제] 9번 / 지폐 접기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340199)   
-10. 1️⃣ [**[PCCE 기출문제] 10번 / 공원**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340198)   
-11. 1️⃣ [**유연근무제**](https://github.com/Arma75/programmers-in-java/blob/main/level1/388351)   
-12. 1️⃣ [**택배 상자 꺼내기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/389478)   
+1. 0️⃣🆙 [**[PCCE 기출문제] 1번 / 문자 출력**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340207)   
+2. 0️⃣🆙 [**[PCCE 기출문제] 2번 / 각도 합치기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340206)   
+3. 0️⃣🆙 [**[PCCE 기출문제] 3번 / 수 나누기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340205)   
+4. 0️⃣🆙 [**[PCCE 기출문제] 4번 / 병과분류**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340204)   
+5. 0️⃣🆙 [**[PCCE 기출문제] 5번 / 심폐소생술**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340203)   
+6. 0️⃣🆙 [**[PCCE 기출문제] 6번 / 물 부족**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340202)   
+7. 0️⃣🆙 [**[PCCE 기출문제] 7번 / 버스**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340201)   
+8. 0️⃣🆙 [**[PCCE 기출문제] 8번 / 닉네임 규칙**](https://github.com/Arma75/programmers-in-java/blob/main/level0/340200)   
+9. 1️⃣🆙 [**[PCCE 기출문제] 9번 / 지폐 접기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340199)   
+10. 1️⃣🆙 [**[PCCE 기출문제] 10번 / 공원**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340198)   
+11. 1️⃣🆙 [**유연근무제**](https://github.com/Arma75/programmers-in-java/blob/main/level1/388351)   
+12. 1️⃣🆙 [**택배 상자 꺼내기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/389478)   
 
 > 2025-06-27(2)
 
-1. 1️⃣ [**[PCCP 기출문제] 1번 / 동영상 재생기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340213)   
-2. 2️⃣ [**서버 증설 횟수**](https://github.com/Arma75/programmers-in-java/blob/main/level2/389479)   
+1. 1️⃣🆙 [**[PCCP 기출문제] 1번 / 동영상 재생기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/340213)   
+2. 2️⃣🆙 [**서버 증설 횟수**](https://github.com/Arma75/programmers-in-java/blob/main/level2/389479)   
 
 > 2025-06-28(1)
 
-1. 2️⃣ [**[PCCP 기출문제] 2번 / 퍼즐 게임 챌린지**](https://github.com/Arma75/programmers-in-java/blob/main/level2/340212)   
+1. 2️⃣🆙 [**[PCCP 기출문제] 2번 / 퍼즐 게임 챌린지**](https://github.com/Arma75/programmers-in-java/blob/main/level2/340212)   
 
 > 2025-06-30(2)
 
-1. 2️⃣ [**지게차와 크레인**](https://github.com/Arma75/programmers-in-java/blob/main/level2/388353)   
-2. 2️⃣ [**비밀 코드 해독**](https://github.com/Arma75/programmers-in-java/blob/main/level2/388352)   
+1. 2️⃣🆙 [**지게차와 크레인**](https://github.com/Arma75/programmers-in-java/blob/main/level2/388353)   
+2. 2️⃣🆙 [**비밀 코드 해독**](https://github.com/Arma75/programmers-in-java/blob/main/level2/388352)   
 
-> 2025-07-01(1)
+> 2025-07-01(2)
 
-1. 2️⃣ [**[PCCP 기출문제] 3번 / 충돌위험 찾기**](https://github.com/Arma75/programmers-in-java/blob/main/level2/340211)   
+1. 2️⃣🆙 [**[PCCP 기출문제] 3번 / 충돌위험 찾기**](https://github.com/Arma75/programmers-in-java/blob/main/level2/340211)   
+2. 0️⃣ [**문자열 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181952)   
+3. 0️⃣ [**a와 b 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181951)   
