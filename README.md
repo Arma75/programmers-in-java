@@ -58,8 +58,10 @@
 2. 0️⃣ [**문자열 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181952)   
 3. 0️⃣ [**a와 b 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181951)   
 
-> 2025-07-02(1)
+> 2025-07-02(5)
 
 1. 0️⃣ [**문자열 반복해서 출력하기**](https://school.programmers.co.kr/learn/courses/30/lessons/181950?language=java)   
 2. 0️⃣ [**대소문자 바꿔서 출력하기**](https://school.programmers.co.kr/learn/courses/30/lessons/181949?language=java)   
 3. 1️⃣ [**폰켓몬**](https://github.com/Arma75/programmers-in-java/blob/main/level1/1845)   
+4. 3️⃣🆙 [**보행자 천국**](https://github.com/Arma75/programmers-in-java/blob/main/level3/1832)   
+5. 2️⃣🆙 [**카카오프렌즈 컬러링북**](https://github.com/Arma75/programmers-in-java/blob/main/level2/1829)   
