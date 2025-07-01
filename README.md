@@ -52,8 +52,14 @@
 1. 2️⃣🆙 [**지게차와 크레인**](https://github.com/Arma75/programmers-in-java/blob/main/level2/388353)   
 2. 2️⃣🆙 [**비밀 코드 해독**](https://github.com/Arma75/programmers-in-java/blob/main/level2/388352)   
 
-> 2025-07-01(2)
+> 2025-07-01(3)
 
 1. 2️⃣🆙 [**[PCCP 기출문제] 3번 / 충돌위험 찾기**](https://github.com/Arma75/programmers-in-java/blob/main/level2/340211)   
 2. 0️⃣ [**문자열 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181952)   
 3. 0️⃣ [**a와 b 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181951)   
+
+> 2025-07-02(1)
+
+1. 0️⃣ [**문자열 반복해서 출력하기**](https://school.programmers.co.kr/learn/courses/30/lessons/181950?language=java)   
+2. 0️⃣ [**대소문자 바꿔서 출력하기**](https://school.programmers.co.kr/learn/courses/30/lessons/181949?language=java)   
+3. 1️⃣ [**폰켓몬**](https://github.com/Arma75/programmers-in-java/blob/main/level1/1845)   
