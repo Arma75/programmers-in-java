@@ -58,12 +58,16 @@
 2. 0️⃣ [**문자열 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181952)   
 3. 0️⃣ [**a와 b 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181951)   
 
-> 2025-07-02(5)
+> 2025-07-02(7)
 
 1. 0️⃣ [**문자열 반복해서 출력하기**](https://school.programmers.co.kr/learn/courses/30/lessons/181950?language=java)   
 2. 0️⃣ [**대소문자 바꿔서 출력하기**](https://school.programmers.co.kr/learn/courses/30/lessons/181949?language=java)   
 3. 1️⃣ [**폰켓몬**](https://github.com/Arma75/programmers-in-java/blob/main/level1/1845)   
 4. 3️⃣🆙 [**보행자 천국**](https://github.com/Arma75/programmers-in-java/blob/main/level3/1832)   
 5. 2️⃣🆙 [**카카오프렌즈 컬러링북**](https://github.com/Arma75/programmers-in-java/blob/main/level2/1829)   
-4. 2️⃣ [**전화번호 목록**](https://github.com/Arma75/programmers-in-java/blob/main/level2/42577)   
-5. 2️⃣ [**의상**](https://github.com/Arma75/programmers-in-java/blob/main/level2/42578)   
+6. 2️⃣ [**전화번호 목록**](https://github.com/Arma75/programmers-in-java/blob/main/level2/42577)   
+7. 2️⃣ [**의상**](https://github.com/Arma75/programmers-in-java/blob/main/level2/42578)
+
+<img width="336" alt="image" src="https://github.com/user-attachments/assets/d07d4593-b9c8-4a7c-a14d-0a4b21194aa8" />   
+   
+스킬체크 레벨2 완료
