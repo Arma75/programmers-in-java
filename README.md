@@ -65,3 +65,5 @@
 3. 1️⃣ [**폰켓몬**](https://github.com/Arma75/programmers-in-java/blob/main/level1/1845)   
 4. 3️⃣🆙 [**보행자 천국**](https://github.com/Arma75/programmers-in-java/blob/main/level3/1832)   
 5. 2️⃣🆙 [**카카오프렌즈 컬러링북**](https://github.com/Arma75/programmers-in-java/blob/main/level2/1829)   
+4. 2️⃣ [**전화번호 목록**](https://github.com/Arma75/programmers-in-java/blob/main/level2/42577)   
+5. 2️⃣ [**의상**](https://github.com/Arma75/programmers-in-java/blob/main/level2/42578)   
