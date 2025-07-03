@@ -72,7 +72,9 @@
    
 스킬체크 레벨2 완료   
 
-> 2025-07-03(2)
+> 2025-07-03(4)
 
 1. 2️⃣ [**멀리 뛰기**](https://github.com/Arma75/programmers-in-java/blob/main/level2/12914)   
 2. 2️⃣ [**가장 큰 정사각형 찾기**](https://github.com/Arma75/programmers-in-java/blob/main/level2/12905)   
+3. 2️⃣ [**땅따먹기**](https://github.com/Arma75/programmers-in-java/blob/main/level2/12913)   
+4. 2️⃣🆙 [**완전범죄**](https://github.com/Arma75/programmers-in-java/blob/main/level2/389480)   
