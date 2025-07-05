@@ -78,3 +78,13 @@
 2. 2️⃣ [**가장 큰 정사각형 찾기**](https://github.com/Arma75/programmers-in-java/blob/main/level2/12905)   
 3. 2️⃣ [**땅따먹기**](https://github.com/Arma75/programmers-in-java/blob/main/level2/12913)   
 4. 2️⃣🆙 [**완전범죄**](https://github.com/Arma75/programmers-in-java/blob/main/level2/389480)   
+
+> 2025-07-05(2)
+
+1. 2️⃣ [**숫자 변환하기**](https://github.com/Arma75/programmers-in-java/blob/main/level2/154538)   
+2. 2️⃣ [**피보나치 수**](https://github.com/Arma75/programmers-in-java/blob/main/level2/12945)   
+
+> 2025-07-06(2)
+
+1. 3️⃣ [**N으로 표현**](https://github.com/Arma75/programmers-in-java/blob/main/level3/42895)   
+2. 3️⃣ [**정수 삼각형**](https://github.com/Arma75/programmers-in-java/blob/main/level3/43105)   
