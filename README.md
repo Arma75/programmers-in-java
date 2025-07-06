@@ -87,4 +87,9 @@
 > 2025-07-06(2)
 
 1. 3️⃣ [**N으로 표현**](https://github.com/Arma75/programmers-in-java/blob/main/level3/42895)   
-2. 3️⃣ [**정수 삼각형**](https://github.com/Arma75/programmers-in-java/blob/main/level3/43105)   
+2. 3️⃣ [**정수 삼각형**](https://github.com/Arma75/programmers-in-java/blob/main/level3/43105)    
+
+> 2025-07-07(2)
+
+1. 0️⃣ [**옹알이 (1)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120956)   
+2. 0️⃣ [**정수를 나선형으로 배치하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181832)   
