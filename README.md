@@ -89,10 +89,15 @@
 1. 3️⃣ [**N으로 표현**](https://github.com/Arma75/programmers-in-java/blob/main/level3/42895)   
 2. 3️⃣ [**정수 삼각형**](https://github.com/Arma75/programmers-in-java/blob/main/level3/43105)    
 
-> 2025-07-07(4)
+> 2025-07-07(6)
 
 1. 0️⃣ [**옹알이 (1)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120956)   
 2. 0️⃣ [**정수를 나선형으로 배치하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181832)   
 3. 0️⃣ [**평행**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120875)   
 4. 0️⃣ [**겹치는 선분의 길이**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120876)   
 5. 0️⃣ [**분수의 덧셈**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120808)   
+6. 0️⃣ [**주사위 게임 3**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181916)   
+7. 0️⃣ [**안전지대**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120866)   
+8. 0️⃣ [**연속된 수의 합**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120923)   
+9. 0️⃣ [**다음에 올 숫자**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120924)   
+10. 0️⃣ [**최빈값 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120812)   
