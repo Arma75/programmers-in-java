@@ -1,21 +1,19 @@
-// https://school.programmers.co.kr/learn/courses/30/lessons/120907?language=java
+// https://school.programmers.co.kr/learn/courses/30/lessons/181932
 class Solution {
-    public String[] solution(String[] quiz) {
-        String[] answer = new String[quiz.length];
+    public String solution(String code) {
+        String answer = "";
         
-        for( int i = 0; i < quiz.length; i++ ) {
-            String[] arr = quiz[i].split(" ");
-            int n1 = Integer.parseInt(arr[0]);
-            int n2 = Integer.parseInt(arr[2]);
-            int result = Integer.parseInt(arr[4]);
+        int mode = 0;
+        for( int i = 0; i < code.length(); i++ ) {
+            char ch = code.charAt(i);
             
-            if( arr[1].equals("-") ) {
-                answer[i] = result == n1 - n2? "O" : "X";
-            } else {
-                answer[i] = result == n1 + n2? "O" : "X";
+            if( ch == '1' ) {
+                mode = 1 - mode;
+            } else if( i % 2 == mode ) {
+                answer += ch;
             }
         }
         
-        return answer;
+        return answer.length() == 0? "EMPTY" : answer;
     }
 }

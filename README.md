@@ -102,6 +102,7 @@
 9. 0️⃣ [**다음에 올 숫자**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120924)   
 10. 0️⃣ [**최빈값 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120812)   
 
-> 2025-07-08(1)
+> 2025-07-08(2)
 
 1. 0️⃣ [**OX퀴즈**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120907)   
+2. 0️⃣ [**코드 처리하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181932)   
