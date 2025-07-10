@@ -106,3 +106,7 @@
 
 1. 0️⃣ [**OX퀴즈**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120907)   
 2. 0️⃣ [**코드 처리하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181932)   
+
+> 2025-07-09(1)
+
+1. 0️⃣ [**배열 조각하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181893)   
