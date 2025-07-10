@@ -106,3 +106,11 @@
 
 1. 0️⃣ [**OX퀴즈**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120907)   
 2. 0️⃣ [**코드 처리하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181932)   
+
+> 2025-07-10(5)
+
+1. 0️⃣ [**배열 조각하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181893)   
+2. 0️⃣ [**다항식 더하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120863)   
+3. 0️⃣ [**배열 만들기 2**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181921)   
+4. 0️⃣ [**특이한 정렬**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120880)   
+5. 0️⃣ [**문자열 밀기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120921)   
