@@ -107,10 +107,16 @@
 1. 0️⃣ [**OX퀴즈**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120907)   
 2. 0️⃣ [**코드 처리하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181932)   
 
-> 2025-07-10(5)
+> 2025-07-10(10)
 
 1. 0️⃣ [**배열 조각하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181893)   
 2. 0️⃣ [**다항식 더하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120863)   
 3. 0️⃣ [**배열 만들기 2**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181921)   
 4. 0️⃣ [**특이한 정렬**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120880)   
 5. 0️⃣ [**문자열 밀기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120921)   
+6. 0️⃣ [**유한소수 판별하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120878)   
+7. 0️⃣ [**등수 매기기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120882)   
+8. 0️⃣ [**치킨 쿠폰**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120884)   
+9. 0️⃣ [**저주의 숫자 3**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120871)   
+10. 0️⃣ [**직사각형 넓이 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120860)   
+11. 0️⃣ [**캐릭터의 좌표**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120861)   
