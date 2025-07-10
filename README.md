@@ -107,7 +107,7 @@
 1. 0️⃣ [**OX퀴즈**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120907)   
 2. 0️⃣ [**코드 처리하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181932)   
 
-> 2025-07-10(10)
+> 2025-07-10(11)
 
 1. 0️⃣ [**배열 조각하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181893)   
 2. 0️⃣ [**다항식 더하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120863)   
@@ -120,3 +120,17 @@
 9. 0️⃣ [**저주의 숫자 3**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120871)   
 10. 0️⃣ [**직사각형 넓이 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120860)   
 11. 0️⃣ [**캐릭터의 좌표**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120861)   
+
+> 2025-07-11(7)
+
+1. 0️⃣ [**외계어 사전**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120869)   
+2. 0️⃣ [**종이 자르기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120922)   
+3. 0️⃣ [**전국 대회 선발 고사**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181851)   
+4. 0️⃣ [**로그인 성공?**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120883)   
+5. 0️⃣ [**정사각형으로 만들기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181830)   
+6. 0️⃣ [**문자열 겹쳐쓰기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181943)   
+7. 0️⃣ [**그림 확대**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181836)   
+8. 0️⃣ [**구슬을 나누는 경우의 수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120840)   
+9. 0️⃣ [**삼각형의 완성조건 (2)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120868)   
+10. 0️⃣ [**두 수의 합**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181846)   
+11. 0️⃣ [**영어가 싫어요**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120894)   
