@@ -121,7 +121,7 @@
 10. 0️⃣ [**직사각형 넓이 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120860)   
 11. 0️⃣ [**캐릭터의 좌표**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120861)   
 
-> 2025-07-11(7)
+> 2025-07-11(18)
 
 1. 0️⃣ [**외계어 사전**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120869)   
 2. 0️⃣ [**종이 자르기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120922)   
@@ -134,3 +134,10 @@
 9. 0️⃣ [**삼각형의 완성조건 (2)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120868)   
 10. 0️⃣ [**두 수의 합**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181846)   
 11. 0️⃣ [**영어가 싫어요**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120894)   
+12. 0️⃣ [**수열과 구간 쿼리 2**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181923)   
+13. 0️⃣ [**무작위로 K개의 수 뽑기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181858)   
+14. 0️⃣ [**이진수 더하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120885)   
+15. 0️⃣ [**배열 만들기 4**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181918)   
+16. 0️⃣ [**문자열 여러 번 뒤집기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181913)   
+17. 0️⃣ [**문자열 계산하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120902)   
+18. 0️⃣ [**공 던지기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120843)   
