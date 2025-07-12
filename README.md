@@ -148,3 +148,13 @@
 2. 0️⃣ [**커피 심부름**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181837)   
 3. 0️⃣ [**특수문자 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181948)   
 4. 0️⃣ [**잘라서 배열로 저장하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120913)   
+
+> 2025-07-13(7)
+
+1. 0️⃣ [**배열 만들기 6**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181859)   
+2. 0️⃣ [**왼쪽 오른쪽**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181890)   
+3. 0️⃣ [**소인수분해**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120852)   
+4. 0️⃣ [**문자 개수 세기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181902)   
+5. 0️⃣ [**진료순서 정하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120835)   
+6. 0️⃣ [**팩토리얼**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120848)   
+7. 0️⃣ [**가까운 수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120890)   
