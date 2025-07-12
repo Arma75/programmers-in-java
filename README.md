@@ -141,3 +141,10 @@
 16. 0️⃣ [**문자열 여러 번 뒤집기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181913)   
 17. 0️⃣ [**문자열 계산하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120902)   
 18. 0️⃣ [**공 던지기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120843)   
+
+> 2025-07-12(4)
+
+1. 0️⃣ [**컨트롤 제트**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120853)   
+2. 0️⃣ [**커피 심부름**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181837)   
+3. 0️⃣ [**특수문자 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181948)   
+4. 0️⃣ [**잘라서 배열로 저장하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120913)   
