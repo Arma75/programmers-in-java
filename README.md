@@ -158,3 +158,13 @@
 5. 0️⃣ [**진료순서 정하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120835)   
 6. 0️⃣ [**팩토리얼**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120848)   
 7. 0️⃣ [**가까운 수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120890)   
+
+> 2025-07-14(7)
+
+1. 0️⃣ [**7의 개수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120912)   
+2. 0️⃣ [**2의 영역**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181894)   
+3. 0️⃣ [**리스트 자르기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181897)   
+4. 0️⃣ [**수열과 구간 쿼리 4**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181922)   
+5. 0️⃣ [**간단한 논리 연산**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181917)   
+6. 0️⃣ [**조건에 맞게 수열 변환하기 2**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181881)   
+7. 0️⃣ [**qr code**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181903)   
