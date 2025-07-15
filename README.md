@@ -179,3 +179,7 @@
 6. 0️⃣ [**문자열 묶기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181855)   
 7. 0️⃣ [**세 개의 구분자**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181862)   
 8. 0️⃣ [**한 번만 등장한 문자**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120896)   
+9. 0️⃣ [**숨어있는 숫자의 덧셈 (2)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120864)   
+10. 0️⃣ [**합성수 찾기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120846)   
+11. 0️⃣ [**중복된 문자 제거**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120888)   
+12. 0️⃣ [**날짜 비교하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181838)   
