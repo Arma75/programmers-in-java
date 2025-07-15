@@ -169,7 +169,7 @@
 6. 0️⃣ [**조건에 맞게 수열 변환하기 2**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181881)   
 7. 0️⃣ [**qr code**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181903)   
 
-> 2025-07-15(8)
+> 2025-07-15(15)
 
 1. 0️⃣ [**모스부호 (1)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120838)   
 2. 0️⃣ [**2차원으로 만들기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120842)   
@@ -183,3 +183,15 @@
 10. 0️⃣ [**합성수 찾기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120846)   
 11. 0️⃣ [**중복된 문자 제거**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120888)   
 12. 0️⃣ [**날짜 비교하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181838)   
+
+> 2025-07-16(9)
+
+1. 0️⃣ [**빈 배열에 추가, 삭제하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181860)   
+2. 0️⃣ [**수열과 구간 쿼리 1**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181883)   
+3. 0️⃣ [**글자 지우기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181900)   
+4. 0️⃣ [**배열 만들기 5**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181912)   
+5. 0️⃣ [**등차수열의 특정한 항만 더하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181931)   
+6. 0️⃣ [**1로 만들기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181880)   
+7. 0️⃣ [**문자열 뒤집기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181905)   
+8. 0️⃣ [**특정 문자열로 끝나는 가장 긴 부분 문자열 찾기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181872)   
+9. 2️⃣🆙 [**단체사진 찍기**](https://github.com/Arma75/programmers-in-java/blob/main/level2/1835)   
