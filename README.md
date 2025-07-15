@@ -169,10 +169,13 @@
 6. 0️⃣ [**조건에 맞게 수열 변환하기 2**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181881)   
 7. 0️⃣ [**qr code**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181903)   
 
-> 2025-07-15(5)
+> 2025-07-15(8)
 
 1. 0️⃣ [**모스부호 (1)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120838)   
 2. 0️⃣ [**2차원으로 만들기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120842)   
 3. 0️⃣ [**A로 B 만들기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120886)   
 4. 0️⃣ [**k의 개수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120887)   
 5. 0️⃣ [**배열의 길이를 2의 거듭제곱으로 만들기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181857)   
+6. 0️⃣ [**문자열 묶기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181855)   
+7. 0️⃣ [**세 개의 구분자**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181862)   
+8. 0️⃣ [**한 번만 등장한 문자**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120896)   
