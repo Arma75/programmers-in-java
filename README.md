@@ -184,7 +184,7 @@
 11. 0️⃣ [**중복된 문자 제거**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120888)   
 12. 0️⃣ [**날짜 비교하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181838)   
 
-> 2025-07-16(9)
+> 2025-07-16(13)
 
 1. 0️⃣ [**빈 배열에 추가, 삭제하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181860)   
 2. 0️⃣ [**수열과 구간 쿼리 1**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181883)   
@@ -195,3 +195,7 @@
 7. 0️⃣ [**문자열 뒤집기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181905)   
 8. 0️⃣ [**특정 문자열로 끝나는 가장 긴 부분 문자열 찾기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181872)   
 9. 2️⃣🆙 [**단체사진 찍기**](https://github.com/Arma75/programmers-in-java/blob/main/level2/1835)   
+10. 0️⃣ [**수열과 구간 쿼리 3**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181924)   
+11. 0️⃣ [**문자열이 몇 번 등장하는지 세기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181871)   
+12. 0️⃣ [**문자열 섞기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181942)   
+13. 0️⃣ [**피자 나눠 먹기 (2)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120815)   
