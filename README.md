@@ -199,3 +199,13 @@
 11. 0️⃣ [**문자열이 몇 번 등장하는지 세기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181871)   
 12. 0️⃣ [**문자열 섞기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181942)   
 13. 0️⃣ [**피자 나눠 먹기 (2)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120815)   
+
+> 2025-07-17(7)
+
+1. 0️⃣ [**외계행성의 나이**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120834)   
+2. 0️⃣ [**배열 회전시키기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120844)   
+3. 0️⃣ [**369게임**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120891)   
+4. 0️⃣ [**문자열 잘라서 정렬하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181866)   
+5. 0️⃣ [**세로 읽기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181904)   
+6. 0️⃣ [**이차원 배열 대각선 순회하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181829)   
+7. 1️⃣ [**가장 많이 받은 선물**](https://github.com/Arma75/programmers-in-java/blob/main/level1/258712)   
