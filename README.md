@@ -210,7 +210,7 @@
 6. 0️⃣ [**이차원 배열 대각선 순회하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181829)   
 7. 1️⃣ [**가장 많이 받은 선물**](https://github.com/Arma75/programmers-in-java/blob/main/level1/258712)   
 
-> 2025-07-18(1)
+> 2025-07-18(9)
 
 1. 0️⃣ [**배열 두 배 만들기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120809)   
 2. 0️⃣ [**중앙값 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120811)   
