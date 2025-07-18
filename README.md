@@ -210,7 +210,7 @@
 6. 0️⃣ [**이차원 배열 대각선 순회하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181829)   
 7. 1️⃣ [**가장 많이 받은 선물**](https://github.com/Arma75/programmers-in-java/blob/main/level1/258712)   
 
-> 2025-07-18(18)
+> 2025-07-18(25)
 
 1. 0️⃣ [**배열 두 배 만들기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120809)   
 2. 0️⃣ [**중앙값 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120811)   
@@ -230,3 +230,14 @@
 16. 0️⃣ [**가장 큰 수 찾기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120899)   
 17. 0️⃣ [**문자열 정렬하기 (2)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120911)   
 18. 0️⃣ [**길이에 따른 연산**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181879)   
+19. 0️⃣ [**조건에 맞게 수열 변환하기 1**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181882)   
+20. 0️⃣ [**n보다 커질 때까지 더하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181884)   
+22. 0️⃣ [**5명씩**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181886)   
+23. 0️⃣ [**순서 바꾸기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181891)   
+24. 0️⃣ [**카운트 다운**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181899)   
+25. 0️⃣ [**배열 만들기 1**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181901)   
+
+> 2025-07-19(2)
+
+1. 0️⃣ [**접두사인지 확인하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181906)   
+2. 0️⃣ [**접미사 배열**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181909)   
