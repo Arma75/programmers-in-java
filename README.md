@@ -209,3 +209,15 @@
 5. 0️⃣ [**세로 읽기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181904)   
 6. 0️⃣ [**이차원 배열 대각선 순회하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181829)   
 7. 1️⃣ [**가장 많이 받은 선물**](https://github.com/Arma75/programmers-in-java/blob/main/level1/258712)   
+
+> 2025-07-18(1)
+
+1. 0️⃣ [**배열 두 배 만들기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120809)   
+2. 0️⃣ [**중앙값 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120811)   
+3. 0️⃣ [**짝수는 싫어요**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120813)   
+4. 0️⃣ [**옷가게 할인 받기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120818)   
+5. 0️⃣ [**직각삼각형 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120823)   
+6. 0️⃣ [**개미 군단**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120837)   
+7. 0️⃣ [**가위 바위 보**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120839)   
+8. 0️⃣ [**주사위의 개수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120845)   
+9. 0️⃣ [**문자열 정렬하기 (1)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120850)   
