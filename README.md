@@ -241,3 +241,10 @@
 
 1. 0️⃣ [**접두사인지 확인하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181906)   
 2. 0️⃣ [**접미사 배열**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181909)   
+
+> 2025-07-20(4)
+
+1. 0️⃣ [**부분 문자열 이어 붙여 문자열 만들기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181911)   
+2. 0️⃣ [**9로 나눈 나머지**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181914)   
+3. 0️⃣ [**글자 이어 붙여 문자열 만들기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181915)   
+4. 0️⃣ [**콜라츠 수열 만들기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181919)   
