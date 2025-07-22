@@ -290,3 +290,9 @@
 30. 0️⃣ [**배열에서 문자열 대소문자 변환하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181875)   
 31. 0️⃣ [**이어 붙인 수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181928)   
 32. 0️⃣ [**간단한 식 계산하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181865)   
+
+> 2025-07-22(3)
+
+1. 0️⃣ [**소문자로 바꾸기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181876)   
+2. 0️⃣ [**문자열 곱하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181940)   
+3. 0️⃣ [**홀짝에 따라 다른 값 반환하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181935)   
