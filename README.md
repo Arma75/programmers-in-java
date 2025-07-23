@@ -291,8 +291,19 @@
 31. 0️⃣ [**이어 붙인 수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181928)   
 32. 0️⃣ [**간단한 식 계산하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181865)   
 
-> 2025-07-22(3)
+> 2025-07-22(7)
 
 1. 0️⃣ [**소문자로 바꾸기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181876)   
 2. 0️⃣ [**문자열 곱하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181940)   
 3. 0️⃣ [**홀짝에 따라 다른 값 반환하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181935)   
+4. 0️⃣ [**대문자로 바꾸기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181877)   
+5. 0️⃣ [**n 번째 원소부터**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181892)   
+6. 0️⃣ [**가까운 1 찾기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181898)   
+7. 0️⃣ [**n개 간격의 원소들**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181888)   
+
+> 2025-07-23(4)
+
+1. 0️⃣ [**배열 만들기 3**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181895)   
+2. 0️⃣ [**카운트 업**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181920)   
+3. 0️⃣ [**홀짝 구분하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181944)   
+4. 0️⃣ [**할 일 목록**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181885)   
