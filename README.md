@@ -307,3 +307,10 @@
 2. 0️⃣ [**카운트 업**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181920)   
 3. 0️⃣ [**홀짝 구분하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181944)   
 4. 0️⃣ [**할 일 목록**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181885)   
+
+> 2025-07-24(4)
+
+1. 0️⃣ [**첫 번째로 나오는 음수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181896)   
+2. 0️⃣ [**문자열의 앞의 n글자**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181907)   
+3. 0️⃣ [**두 수의 합 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120802)   
+4. 0️⃣ [**각도기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120829)   
