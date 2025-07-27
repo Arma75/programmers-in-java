@@ -308,7 +308,7 @@
 3. 0️⃣ [**홀짝 구분하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181944)   
 4. 0️⃣ [**할 일 목록**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181885)   
 
-> 2025-07-24(14)
+> 2025-07-24(15)
 
 1. 0️⃣ [**첫 번째로 나오는 음수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181896)   
 2. 0️⃣ [**문자열의 앞의 n글자**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181907)   
@@ -325,3 +325,10 @@
 13. 0️⃣ [**세균 증식**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120910)   
 14. 0️⃣ [**최댓값 만들기(1)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120847)   
 15. 0️⃣ [**자릿수 더하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120906)   
+
+> 2025-07-28(4)
+
+1. 0️⃣ [**머쓱이보다 키 큰 사람**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120585)   
+2. 0️⃣ [**삼각형의 완성조건 (1)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120889)   
+3. 0️⃣ [**배열 자르기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120833)   
+4. 0️⃣ [**피자 나눠 먹기 (3)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120816)   
