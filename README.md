@@ -21,7 +21,7 @@
 ## 📝 문제 풀이 기록
 |level0|level1|level2|level3|level4|level5|
 |---|---|---|---|---|---|
-|205 / 240|7 / 117|15 / 151|3 / 102|0 / 45|0 / 21|
+|212 / 240|7 / 117|15 / 151|3 / 102|0 / 45|0 / 21|
 
 > 2025-06-25(1)
 
@@ -330,7 +330,7 @@
 14. 0️⃣ [**최댓값 만들기(1)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120847)   
 15. 0️⃣ [**자릿수 더하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120906)   
 
-> 2025-07-28(7)
+> 2025-07-28(15)
 
 1. 0️⃣ [**머쓱이보다 키 큰 사람**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120585)   
 2. 0️⃣ [**삼각형의 완성조건 (1)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120889)   
@@ -340,3 +340,10 @@
 6. 0️⃣ [**배열의 유사도**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120903)   
 7. 0️⃣ [**순서쌍의 개수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120836)   
 8. 0️⃣ [**n의 배수 고르기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120905)   
+9. 0️⃣ [**배열 원소의 길이**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120854)   
+10. 0️⃣ [**아이스 아메리카노**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120819)   
+11. 0️⃣ [**문자열안에 문자열**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120908)   
+12. 0️⃣ [**문자 반복 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120825)   
+13. 0️⃣ [**제곱수 판별하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120909)   
+14. 0️⃣ [**모음 제거**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120849)   
+15. 0️⃣ [**특정 문자 제거하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120826)   
