@@ -326,9 +326,13 @@
 14. 0️⃣ [**최댓값 만들기(1)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120847)   
 15. 0️⃣ [**자릿수 더하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120906)   
 
-> 2025-07-28(4)
+> 2025-07-28(7)
 
 1. 0️⃣ [**머쓱이보다 키 큰 사람**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120585)   
 2. 0️⃣ [**삼각형의 완성조건 (1)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120889)   
 3. 0️⃣ [**배열 자르기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120833)   
 4. 0️⃣ [**피자 나눠 먹기 (3)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120816)   
+5. 0️⃣ [**점의 위치 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120841)   
+6. 0️⃣ [**배열의 유사도**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120903)   
+7. 0️⃣ [**순서쌍의 개수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120836)   
+8. 0️⃣ [**n의 배수 고르기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120905)   
