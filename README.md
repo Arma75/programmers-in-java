@@ -21,7 +21,7 @@
 ## 📝 문제 풀이 기록
 |level0|level1|level2|level3|level4|level5|
 |---|---|---|---|---|---|
-|205 / 240|7 / 117|15 / 151|3 / 102|0 / 45|0 / 21|
+|240 / 240|7 / 117|15 / 151|3 / 102|0 / 45|0 / 21|
 
 > 2025-06-25(1)
 
@@ -330,7 +330,7 @@
 14. 0️⃣ [**최댓값 만들기(1)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120847)   
 15. 0️⃣ [**자릿수 더하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120906)   
 
-> 2025-07-28(7)
+> 2025-07-28(15)
 
 1. 0️⃣ [**머쓱이보다 키 큰 사람**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120585)   
 2. 0️⃣ [**삼각형의 완성조건 (1)**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120889)   
@@ -340,3 +340,41 @@
 6. 0️⃣ [**배열의 유사도**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120903)   
 7. 0️⃣ [**순서쌍의 개수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120836)   
 8. 0️⃣ [**n의 배수 고르기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120905)   
+9. 0️⃣ [**배열 원소의 길이**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120854)   
+10. 0️⃣ [**아이스 아메리카노**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120819)   
+11. 0️⃣ [**문자열안에 문자열**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120908)   
+12. 0️⃣ [**문자 반복 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120825)   
+13. 0️⃣ [**제곱수 판별하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120909)   
+14. 0️⃣ [**모음 제거**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120849)   
+15. 0️⃣ [**특정 문자 제거하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120826)   
+
+> 2025-07-29(28)
+
+1. 0️⃣ [**나머지 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120810)   
+2. 0️⃣ [**두 수의 차 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120803)   
+3. 0️⃣ [**숫자 비교하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120807)   
+4. 0️⃣ [**나이 출력**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120820)   
+5. 0️⃣ [**두 수의 나눗셈**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120806)   
+6. 0️⃣ [**몫 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120805)   
+7. 0️⃣ [**두 수의 곱 구하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120804)   
+8. 0️⃣ [**중복된 숫자 개수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/120583)   
+9. 0️⃣ [**원하는 문자열 찾기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181878)   
+10. 0️⃣ [**n 번째 원소까지**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181889)   
+11. 0️⃣ [**접미사인지 확인하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181908)   
+12. 0️⃣ [**문자열의 뒤의 n글자**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181910)   
+13. 0️⃣ [**원소들의 곱과 합**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181929)   
+14. 0️⃣ [**flag에 따라 다른 값 반환하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181933)   
+15. 0️⃣ [**공배수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181936)   
+16. 0️⃣ [**n의 배수**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181937)   
+17. 0️⃣ [**두 수의 연산값 비교하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181938)   
+18. 0️⃣ [**더 크게 합치기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181939)   
+19. 0️⃣ [**문자 리스트를 문자열로 변환하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181941)   
+20. 0️⃣ [**문자열 붙여서 출력하기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/181946)   
+21. 0️⃣ [**[PCCE 기출문제] 1번 / 출력**](https://github.com/Arma75/programmers-in-java/blob/main/level0/250133)   
+22. 0️⃣ [**[PCCE 기출문제] 2번 / 피타고라스의 정리**](https://github.com/Arma75/programmers-in-java/blob/main/level0/250132)   
+23. 0️⃣ [**[PCCE 기출문제] 3번 / 나이 계산**](https://github.com/Arma75/programmers-in-java/blob/main/level0/250131)   
+24. 0️⃣ [**[PCCE 기출문제] 4번 / 저축**](https://github.com/Arma75/programmers-in-java/blob/main/level0/250130)   
+25. 0️⃣ [**[PCCE 기출문제] 5번 / 산책**](https://github.com/Arma75/programmers-in-java/blob/main/level0/250129)   
+26. 0️⃣ [**[PCCE 기출문제] 6번 / 가채점**](https://github.com/Arma75/programmers-in-java/blob/main/level0/250128)   
+27. 0️⃣ [**[PCCE 기출문제] 7번 / 가습기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/250127)   
+28. 0️⃣ [**[PCCE 기출문제] 8번 / 창고 정리**](https://github.com/Arma75/programmers-in-java/blob/main/level0/250126)   
