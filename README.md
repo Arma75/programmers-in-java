@@ -21,7 +21,7 @@
 ## 📝 문제 풀이 기록
 |level0|level1|level2|level3|level4|level5|
 |---|---|---|---|---|---|
-|240 / 240|7 / 117|15 / 151|3 / 102|0 / 45|0 / 21|
+|240 / 240|8 / 117|15 / 151|3 / 102|0 / 45|0 / 21|
 
 > 2025-06-25(1)
 
@@ -378,3 +378,7 @@
 26. 0️⃣ [**[PCCE 기출문제] 6번 / 가채점**](https://github.com/Arma75/programmers-in-java/blob/main/level0/250128)   
 27. 0️⃣ [**[PCCE 기출문제] 7번 / 가습기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/250127)   
 28. 0️⃣ [**[PCCE 기출문제] 8번 / 창고 정리**](https://github.com/Arma75/programmers-in-java/blob/main/level0/250126)   
+
+> 2025-08-07(1)
+
+1. 1️⃣ [**달리기 경주**](https://github.com/Arma75/programmers-in-java/blob/main/level1/178871)   
