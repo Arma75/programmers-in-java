@@ -383,3 +383,4 @@
 
 1. 1️⃣ [**달리기 경주**](https://github.com/Arma75/programmers-in-java/blob/main/level1/178871)   
 2. 1️⃣ [**추억 점수**](https://github.com/Arma75/programmers-in-java/blob/main/level1/176963)   
+3. 1️⃣ [**공원 산책**](https://github.com/Arma75/programmers-in-java/blob/main/level1/172928)   
