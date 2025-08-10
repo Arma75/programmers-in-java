@@ -379,8 +379,12 @@
 27. 0️⃣ [**[PCCE 기출문제] 7번 / 가습기**](https://github.com/Arma75/programmers-in-java/blob/main/level0/250127)   
 28. 0️⃣ [**[PCCE 기출문제] 8번 / 창고 정리**](https://github.com/Arma75/programmers-in-java/blob/main/level0/250126)   
 
-> 2025-08-07(2)
+> 2025-08-07(3)
 
 1. 1️⃣ [**달리기 경주**](https://github.com/Arma75/programmers-in-java/blob/main/level1/178871)   
 2. 1️⃣ [**추억 점수**](https://github.com/Arma75/programmers-in-java/blob/main/level1/176963)   
 3. 1️⃣ [**공원 산책**](https://github.com/Arma75/programmers-in-java/blob/main/level1/172928)   
+
+> 2025-08-11(1)
+
+1. 1️⃣ [**바탕화면 정리**](https://github.com/Arma75/programmers-in-java/blob/main/level1/161990)   
