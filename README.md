@@ -388,3 +388,7 @@
 > 2025-08-11(1)
 
 1. 1️⃣ [**바탕화면 정리**](https://github.com/Arma75/programmers-in-java/blob/main/level1/161990)   
+
+> 2025-08-12(1)
+
+1. 1️⃣ [**덧칠하기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/161989)   
