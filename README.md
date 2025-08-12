@@ -21,7 +21,7 @@
 ## 📝 문제 풀이 기록
 |level0|level1|level2|level3|level4|level5|
 |---|---|---|---|---|---|
-|240 / 240|13 / 117|15 / 151|3 / 102|0 / 45|0 / 21|
+|240 / 240|15 / 117|15 / 151|3 / 102|0 / 45|0 / 21|
 
 > 2025-06-25(1)
 
@@ -393,6 +393,8 @@
 
 1. 1️⃣ [**덧칠하기**](https://github.com/Arma75/programmers-in-java/blob/main/level1/161989)   
 
-> 2025-08-13(1)
+> 2025-08-13(3)
 
 1. 1️⃣ [**대충 만든 자판**](https://github.com/Arma75/programmers-in-java/blob/main/level1/160586)   
+2. 1️⃣ [**카드 뭉치**](https://github.com/Arma75/programmers-in-java/blob/main/level1/159994)   
+3. 1️⃣ [**둘만의 암호**](https://github.com/Arma75/programmers-in-java/blob/main/level1/155652)   
