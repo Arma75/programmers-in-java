@@ -397,4 +397,8 @@
 
 1. 1️⃣ [**대충 만든 자판**](https://github.com/Arma75/programmers-in-java/blob/main/level1/160586)   
 2. 1️⃣ [**카드 뭉치**](https://github.com/Arma75/programmers-in-java/blob/main/level1/159994)   
-3. 1️⃣ [**둘만의 암호**](https://github.com/Arma75/programmers-in-java/blob/main/level1/155652)   
+3. 1️⃣ [**둘만의 암호**](https://github.com/Arma75/programmers-in-java/blob/main/level1/155652)
+
+> 2025-08-17
+
+PCCE 시험 합격   
